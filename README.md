@@ -10,4 +10,6 @@ I asked Language Models to write poems.
   - Anthropic claude-instant-v1.0
   
 - [Favicon by Icons8](https://icons8.com/icon/39843/pixel-heart)
+- [Animista](https://animista.net/play/attention/pulsate) - heartbeat animation
+- [particle.js](https://vincentgarreau.com/particles.js/#nasa) - starry sky
 - HTML, CSS, JavaScript
