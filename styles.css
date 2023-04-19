@@ -49,7 +49,7 @@ a:hover:nth-of-type(2n) {
   transform: rotate(-10deg);
 }
 a:visited {
-  color: rgb(53, 53, 53);
+  color: var(--secondary);
 }
 
 .main {
